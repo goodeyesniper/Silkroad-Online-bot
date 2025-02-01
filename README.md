@@ -2,7 +2,7 @@
 
 I have added the .exe file but apparently the file is too large and is returning an error message. If you want a .exe version try compiling the sro-bot.py file to .exe by typing "pyinstaller --onefile -w sro-bot.py" in your terminal. If you are having trouble compiling it to .exe or an absolute noob in python, try watching tutorials in youtube on how to convert the .py file to .exe file. I'd probably make a video tutorial in youtube on how to do this in the future, but I'm just too lazy at the moment.
 
-<b>NOTE: SEE THE mobs-name-format.PNG TO SEE THE IMAGE "FILENAME" FORMAT!</b>
+<b>NOTE: SEE THE "mobs-name-format.PNG" TO KNOW THE IMAGE "FILENAME" FORMAT!</b> These are the file names that will be scanned by the bot.
 
 
 <b>Silkroad Online Attacking Bot</b>
