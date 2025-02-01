@@ -52,3 +52,6 @@ Configure Settings: Adjust the settings for the search area and other features a
 Monitor Performance: Keep an eye on the bot’s actions to ensure it is functioning correctly and efficiently.
 
 Enjoy your enhanced Silkroad Online experience with the help of this bot! Remember to use it responsibly and respect the rules of the servers you play on.
+
+
+"Created for a gamer by a gamer."
