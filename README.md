@@ -1,3 +1,7 @@
+<b>IMPORTANT!</b>
+
+I have added the .exe file but apparently the file is too large and is returning an error message. If you can, try compiling the sro-bot.py file to .exe by typing "pyinstaller --onefile -w sro-bot.py". If you are having trouble compiling it to .exe or an absolute noob in python, try watching tutorials in youtube on how to convert the .py file to .exe file. I'd probably make a video tutorial in youtube on how to do this in the future, but I'm just too lazy at the moment.
+
 <b>Silkroad Online Attacking Bot</b>
 
 Welcome to the Silkroad Online Attacking Bot! This bot is designed to enhance your gaming experience by automating certain actions, helping you to progress faster in the game.
