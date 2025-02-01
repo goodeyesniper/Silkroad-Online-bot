@@ -1,4 +1,4 @@
-Silkroad Online Attacking Bot
+<b>Silkroad Online Attacking Bot</b>
 Welcome to the Silkroad Online Attacking Bot! This bot is designed to enhance your gaming experience by automating certain actions, helping you to progress faster in the game.
 
 Disclaimer
