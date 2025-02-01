@@ -1,17 +1,20 @@
 <b>Silkroad Online Attacking Bot</b>
+
 Welcome to the Silkroad Online Attacking Bot! This bot is designed to enhance your gaming experience by automating certain actions, helping you to progress faster in the game.
 
-Disclaimer
+<b>Disclaimer</b>
+<br>
 Use this bot at your own risk. Some servers strictly prohibit the use of bots and enforce penalties for their use. Ensure you are aware of and comply with the rules of the server you are playing on.
 
-Features
+<b>Features</b>
+<br>
 Image Recognition
 Customizable Targeting: Set images of the mobs you want to attack.
-
+<br>
 Configurable Search Area: Define the area where the bot should look for the specified mobs.
-
+<br>
 Automatic Attack: The bot searches the screen for the images, clicks, and then attacks.
-
+<br>
 Buffing System
 Scheduled Buffs: Automatically buff your characters every 30 minutes.
 
